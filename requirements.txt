@@ -1,0 +1,11 @@
+diffusers
+transformers
+accelerate
+safetensors
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+scipy
